@@ -1,0 +1,192 @@
+body {
+	font-family: arial, verdana, helvetica;
+	font-size: 95%;
+	color: black;
+/*	width: 800px; */
+        width: 100%;
+}
+
+div {
+	padding: 2px;
+}
+
+#wrapper {
+/*	width: 800px; */
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+#header {
+	width: 100%;
+	font-size: 100%;
+	color: #656565;
+	clear: both;
+}
+
+#header * {
+	color: #656565;
+}
+
+#header table {
+	font-size: 100%;
+}
+
+#body {
+	width: 100%;
+	margin-top: 10px;
+	clear: both;
+}
+
+#sidebar {
+	width: 115px; 
+	float: left;
+}
+
+#main {
+/*	width: 650px; */
+	width: 82%;
+/*	float: right; */
+}
+
+#footer {
+	width: 100%;
+	color: #656565;
+	clear: both;
+}
+
+#footer td {
+	font-size: 60%;
+}
+
+#footer * {
+	color: #656565;
+}
+
+p {
+	font-size: 100%;
+}
+
+h1 {
+	font-size: 150%;
+}
+
+span.sub {
+	font-size: 55%;
+}
+
+h2 {
+	font-size: 125%;
+}
+
+h3 {
+	font-size: 105%;
+}
+
+table {
+	border: none;
+	font-size: 90%;
+}
+
+table tr,td {
+	border: none;
+}
+
+b {
+	font-weight: bold;
+/*	color: #000080; */
+/*	color: black; */
+}
+
+b.new {
+	color: #FF0000;
+}
+
+img {
+	border: none;
+}
+
+td.nav {
+	color: white;
+	background-color: #656565;
+	font-size: 100%;
+	height: 35px;
+	text-align: center;
+	text-wrap: none;
+	padding: 0 3px 0 3px;
+}
+
+.nav a, .nav a:link, .nav a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.nav a.sel, .nav a.sel:link, .nav a.sel:visited {
+	color: yellow;
+	text-decoration: none;
+}
+
+.nav a:hover, .nav a:active {
+	color: yellow;
+	text-decoration: none;
+}
+
+td.org {
+	font-size: 90%;
+        font-family: Arial;
+	width: 108px;
+	text-align: center;
+}
+
+table.info th {
+	color: white;
+	background-color: #656565;
+	padding: 5px 10px;
+}
+
+table.info td {
+	border: 1px solid #656565;
+	text-align: center;
+	padding: 5px 10px;
+}
+
+table.info td.highlight {
+	background-color: #C0C0C0;
+}
+
+span.email {
+	font-family: monospace;
+	font-size: 120%;
+	margin-left: 2em;
+}
+
+ul {
+	margin-top: -0.5em;
+}
+
+.cfptab {
+	border: 1px solid black;
+	margin: 0 50px 0 50px;
+	padding: 5px;
+}
+
+p.title {
+	font-weight: bold;
+	color: #000080;
+	margin-bottom: 0;
+}
+
+p.author {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+table.program tr {
+	vertical-align: top;
+}
+
+table.program ol,ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}

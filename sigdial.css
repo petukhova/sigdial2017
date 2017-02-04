@@ -1,0 +1,9 @@
+#texture
+{
+	background-image: url('background.gif');
+	background-color: #656565;
+	background-repeat: repeat; font-size:12pt
+}
+a:link {color: white; text-decoration: none}
+a:visited {color: white; text-decoration: none}
+a:hover {color: yellow; }
